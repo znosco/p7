@@ -1,0 +1,49 @@
+résultats pour le fichier: dataset1.csv 
+somme dépensée = 499.95000000000005 bénéfice = 198.544635
+actions achetées: 
+Share-XJMO
+Share-MTLR
+Share-KMTG
+Share-LRBZ
+Share-GTQK
+Share-WPLI
+Share-GIAJ
+Share-GHIZ
+Share-IFCP
+Share-ZSDE
+Share-FKJW
+Share-NHWA
+Share-LPDM
+Share-QQTU
+Share-USSR
+Share-EMOV
+Share-LGWG
+Share-SKKC
+Share-QLMK
+Share-UEZB
+Share-KZBL
+résultats pour le fichier: dataset2.csv 
+somme dépensée = 499.97 bénéfice = 199.395122
+actions achetées: 
+Share-XJMO
+Share-MTLR
+Share-KMTG
+Share-PATS
+Share-LRBZ
+Share-GTQK
+Share-JWGF
+Share-ALIY
+Share-WPLI
+Share-NDKR
+Share-PLLK
+Share-GIAJ
+Share-GHIZ
+Share-IFCP
+Share-ZSDE
+Share-FWBE
+Share-LFXB
+Share-FKJW
+Share-ZOFA
+Share-NHWA
+Share-LXZU
+Share-XQII

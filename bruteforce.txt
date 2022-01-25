@@ -1,0 +1,13 @@
+résultats pour le fichier: partie1.csv 
+somme dépensée = 498.0 bénéfice = 99.08000000000001
+actions achetées: 
+Action-10
+Action-6
+Action-13
+Action-19
+Action-4
+Action-20
+Action-5
+Action-11
+Action-18
+Action-8
